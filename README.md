@@ -6,7 +6,7 @@ Entornos de Desarrollo. Presentación. 1DAW. Curso 2026/2027.
 
 - [Entornos de Desarrollo - Presentación](#entornos-de-desarrollo---presentación)
   - [Contenidos](#contenidos)
-  - [Contenido en Youtube](#contenido-en-youtube)
+  - [Contenido en YouTube](#contenido-en-youtube)
   - [Resultados de aprendizaje](#resultados-de-aprendizaje)
     - [Evaluación](#evaluación)
   - [Autor](#autor)
@@ -25,7 +25,7 @@ Entornos de Desarrollo. Presentación. 1DAW. Curso 2026/2027.
 
 El índice y contenidos puede variar a lo largo del curso para adaptarse al proceso de enseñanza-aprendizaje.
 
-## Contenido en Youtube
+## Contenido en YouTube
 
 - [Presentación](https://youtu.be/ReHhk1q661E)
 - [Lista de Reproducción](https://www.youtube.com/playlist?list=PLIaRVRNDWeMA)
