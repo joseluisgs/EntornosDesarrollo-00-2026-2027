@@ -27,8 +27,8 @@ El índice y contenidos puede variar a lo largo del curso para adaptarse al proc
 
 ## Contenido en Youtube
 
-- [Presentación](https://youtu.be/VoamKywLez8)
-- [Lista de Reproducción](https://www.youtube.com/watch?v=VoamKywLez8&list=PLGIH-7eZDbVwCTLTEJ_yJJ3NWE0eKqqqH)
+- [Presentación](https://youtu.be/ReHhk1q661E)
+- [Lista de Reproducción](https://www.youtube.com/playlist?list=PLIaRVRNDWeMA)
 
 ## Resultados de aprendizaje
 De acuerdo al [Real Decreto 686/2010](https://www.boe.es/boe/dias/2010/06/12/pdfs/BOE-A-2010-9269.pdf), de 20 de mayo de 2010, y actualizado en el [Real Decreto. 405/2023](https://www.boe.es/boe/dias/2023/06/03/pdfs/BOE-A-2023-13221.pdf), de 29 de mayo de 2023 por el que se establece el título de
@@ -63,7 +63,7 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://jos
 <p>
   Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
 </p>
-<p align="center">
+<p>
     <a href="https://joseluisgs.dev/" target="_blank">
         <img loading="lazy" src="https://github.com/joseluisgs/joseluisgs/raw/master/images/social-icons/favicon.png" height="32">
     </a>&nbsp;
