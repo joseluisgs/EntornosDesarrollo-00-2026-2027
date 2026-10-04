@@ -1,10 +1,10 @@
-# Entornos de desarrollo - 00 - presentación
+# Entornos de Desarrollo - 00 - Presentación
 
 UD00. Entornos de Desarrollo. Presentación. 1DAW. Curso 2026-2027.
 
 ![imagen](./images/entornos.png)
 
-- [Entornos de desarrollo - presentación](#entornos-de-desarrollo---presentación)
+- [Entornos de Desarrollo - Presentación](#entornos-de-desarrollo---presentación)
   - [Contenidos](#contenidos)
   - [Contenido en YouTube](#contenido-en-youtube)
   - [Resultados de aprendizaje](#resultados-de-aprendizaje)
