@@ -1,10 +1,10 @@
-# Entornos de Desarrollo - 00 - Presentación
+# Entornos de desarrollo - 00 - presentación
 
 UD00. Entornos de Desarrollo. Presentación. 1DAW. Curso 2026-2027.
 
 ![imagen](./images/entornos.png)
 
-- [Entornos de Desarrollo - Presentación](#entornos-de-desarrollo---presentación)
+- [Entornos de desarrollo - presentación](#entornos-de-desarrollo---presentación)
   - [Contenidos](#contenidos)
   - [Contenido en YouTube](#contenido-en-youtube)
   - [Resultados de aprendizaje](#resultados-de-aprendizaje)
@@ -14,13 +14,13 @@ UD00. Entornos de Desarrollo. Presentación. 1DAW. Curso 2026-2027.
   - [Licencia de uso](#licencia-de-uso)
 
 ## Contenidos
-1. [Desarrollo de Software](https://github.com/joseluisgs/EntornosDesarrollo-01-2026-2027)
-2. [Entornos de Desarrollo de Software](https://github.com/joseluisgs/EntornosDesarrollo-02-2026-2027)
-3. [Sistema de Control de Versiones](https://github.com/joseluisgs/EntornosDesarrollo-03-2026-2027)
-4. [Diseño Orientado a Objetos: Diagrama de Clases](https://github.com/joseluisgs/EntornosDesarrollo-04-2026-2027)
-5. [Diseño Orientado a Objetos: Diagramas de Comportamiento](https://github.com/joseluisgs/EntornosDesarrollo-05-2026-2027)
-6. [Optimización y Refactorización](https://github.com/joseluisgs/EntornosDesarrollo-06-2026-2027)
-7. [Diseño y Realización de Pruebas](https://github.com/joseluisgs/EntornosDesarrollo-07-2026-2027)
+1. [Desarrollo de software](https://github.com/joseluisgs/EntornosDesarrollo-01-2026-2027)
+2. [Entornos de desarrollo de software](https://github.com/joseluisgs/EntornosDesarrollo-02-2026-2027)
+3. [Sistema de control de versiones](https://github.com/joseluisgs/EntornosDesarrollo-03-2026-2027)
+4. [Diseño orientado a objetos: diagrama de clases](https://github.com/joseluisgs/EntornosDesarrollo-04-2026-2027)
+5. [Diseño orientado a objetos: diagramas de comportamiento](https://github.com/joseluisgs/EntornosDesarrollo-05-2026-2027)
+6. [Optimización y refactorización](https://github.com/joseluisgs/EntornosDesarrollo-06-2026-2027)
+7. [Diseño y realización de pruebas](https://github.com/joseluisgs/EntornosDesarrollo-07-2026-2027)
 
 
 El índice y contenidos puede variar a lo largo del curso para adaptarse al proceso de enseñanza-aprendizaje.
@@ -28,7 +28,7 @@ El índice y contenidos puede variar a lo largo del curso para adaptarse al proc
 ## Contenido en YouTube
 
 - [Presentación](https://youtu.be/ReHhk1q661E)
-- [Lista de Reproducción](https://www.youtube.com/playlist?list=PLIaRVRNDWeMA)
+- [Lista de reproducción](https://www.youtube.com/playlist?list=PLIaRVRNDWeMA)
 
 ## Resultados de aprendizaje
 De acuerdo al [Real Decreto 686/2010](https://www.boe.es/boe/dias/2010/06/12/pdfs/BOE-A-2010-9269.pdf), de 20 de mayo de 2010, y actualizado en el [Real Decreto. 405/2023](https://www.boe.es/boe/dias/2023/06/03/pdfs/BOE-A-2023-13221.pdf), de 29 de mayo de 2023 por el que se establece el título de
