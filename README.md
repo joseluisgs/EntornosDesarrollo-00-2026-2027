@@ -31,9 +31,8 @@ El índice y contenidos puede variar a lo largo del curso para adaptarse al proc
 - [Lista de reproducción](https://www.youtube.com/playlist?list=PLIaRVRNDWeMA)
 
 ## Resultados de Aprendizaje y Criterios de Evaluación
-De acuerdo al [Real Decreto 686/2010](https://www.boe.es/boe/dias/2010/06/12/pdfs/BOE-A-2010-9269.pdf), de 20 de mayo de 2010, y actualizado en el [Real Decreto. 405/2023](https://www.boe.es/boe/dias/2023/06/03/pdfs/BOE-A-2023-13221.pdf), de 29 de mayo de 2023 por el que se establece el título de
-Técnico Superior en Desarrollo de Aplicaciones Web y se fijan sus
-enseñanzas mínimas, los resultados de aprendizaje son:
+
+De acuerdo al [Real Decreto 686/2010](https://www.boe.es/boe/dias/2010/06/12/pdfs/BOE-A-2010-9269.pdf), de 20 de mayo de 2010, y actualizado en el [Real Decreto 405/2023](https://www.boe.es/boe/dias/2023/06/03/pdfs/BOE-A-2023-13221.pdf), de 29 de mayo de 2023, por el que se establece el título de Técnico Superior en Desarrollo de Aplicaciones Web y se fijan sus enseñanzas mínimas, los resultados de aprendizaje son:
 1. Reconoce los elementos y herramientas que intervienen en el desarrollo de un programa informático, analizando sus características y las fases en las que actúan hasta llegar a su puesta en funcionamiento.
 2. Evalúa entornos integrados de desarrollo analizando sus características para editar código fuente y generar ejecutables.
 3. Verifica el funcionamiento de programas diseñando y realizando pruebas.
