@@ -35,12 +35,11 @@ De acuerdo al [Real Decreto 686/2010](https://www.boe.es/boe/dias/2010/06/12/pdf
 Técnico Superior en Desarrollo de Aplicaciones Web y se fijan sus
 enseñanzas mínimas, los resultados de aprendizaje son:
 1. Reconoce los elementos y herramientas que intervienen en el desarrollo de un programa informático, analizando sus características y las fases en las que actúan hasta llegar a su puesta en funcionamiento.
-2. Evalúa entornos integrados de desarrollo, analizando, sus características para editar código fuente y generar ejecutables.
-3. Verifica el funcionamiento de programas, diseñando y realizando pruebas.
+2. Evalúa entornos integrados de desarrollo analizando sus características para editar código fuente y generar ejecutables.
+3. Verifica el funcionamiento de programas diseñando y realizando pruebas.
 4. Optimiza código empleando las herramientas disponibles en el entorno de desarrollo.
-5. Genera diagramas de clases valorando su importancia en el desarrollo de aplicaciones y empleando las herramientas
-disponibles en el entorno.
-6. Genera diagramas de comportamiento valorando su importancia en el desarrollo de aplicaciones y empleando las herramientas disponibles en el entorno.
+5. Genera diagramas de clases valorando su importancia en el desarrollo de aplicaciones y empleando herramientas específicas.
+6. Genera diagramas de comportamiento valorando su importancia en el desarrollo de aplicaciones y empleando herramientas específicas.
 
 
 ### Evaluación
